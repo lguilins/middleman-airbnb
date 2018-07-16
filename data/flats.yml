@@ -1,0 +1,21 @@
+lguilins:
+  name: "Luiz's home"
+  description: "Charming room in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: true
+  rating: 5
+erikadesu:
+  name: "Erika's home"
+  description: Small flat in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: false
+  rating: 5
+pedrofcezar:
+  name: Pedro's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: false
+  rating: 4
